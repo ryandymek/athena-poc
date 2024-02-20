@@ -1,0 +1,23 @@
+{
+  "CustId": 1234,
+  "ProductId": "prod12345",
+  "Price": 1420
+}
+
+{
+  "CustId": 1235,
+  "ProductId": "prod55555",
+  "Price": 72.40
+}
+
+{
+  "CustId": 1236,
+  "ProductId": "prod11111",
+  "Price": 5872.12
+}
+
+{
+  "CustId": 1237,
+  "ProductId": "prod99999",
+  "Price": 5872.12
+}
